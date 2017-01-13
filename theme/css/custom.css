@@ -95,3 +95,8 @@ body {
 .archive a {
 	padding-left: 15px;
 }
+
+.post-img {
+    width: 500px;
+    height: 350px;
+}
