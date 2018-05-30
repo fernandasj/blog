@@ -2,7 +2,7 @@ Title: Escrevendo...
 Date: 2018-05-29 19:30
 Authors: Fernanda Vieira
 
-![Alt Text]({attach}images/writer.jpg)
+![Alt Text]({attach}images/WT.jpg)
 
 Eu sei que um monte de gente acha o máximo essa coisa de escrever ou de quem
 escreve, mas já pararam pra pensar como acontece o processo de escrita?
