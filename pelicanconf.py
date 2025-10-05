@@ -5,10 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Fernanda Silva'
 SITENAME = u'Sra. Kay'
 SITEURL = 'https://fernandasj.github.io/blog'
-<<<<<<< HEAD
 # SITEURL = ''
-=======
->>>>>>> parent of 8c2c204... Generate Pelican site
 
 PATH = 'content'
 
@@ -39,8 +36,4 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-<<<<<<< HEAD
 # RELATIVE_URLS = True
-=======
-#RELATIVE_URLS = True
->>>>>>> parent of 8c2c204... Generate Pelican site
