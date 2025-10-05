@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Fernanda Silva'
 SITENAME = u'Sra. Kay'
-SITEURL = 'https://fernandasj.github.io/blog'
-# SITEURL = ''
+# SITEURL = 'https://fernandasj.github.io/blog'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -36,4 +36,4 @@ SOCIAL = (('You can add links in your config file', '#'),
 DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
