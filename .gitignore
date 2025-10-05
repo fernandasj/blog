@@ -90,6 +90,9 @@ ENV/
 
 # blog
 output/
+<<<<<<< HEAD
 
 blog-env/
 blog_env/
+=======
+>>>>>>> parent of 8c2c204... Generate Pelican site
