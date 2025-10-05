@@ -1,2 +1,0 @@
-# blog
-Sra. Kay Blog
